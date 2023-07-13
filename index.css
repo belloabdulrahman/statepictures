@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+ 
+
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+#container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 150px auto;
+  gap: 20px;
+  flex-wrap: wrap;
+  
+}
+#team-img{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    
+}
